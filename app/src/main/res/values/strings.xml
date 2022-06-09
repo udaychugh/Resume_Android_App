@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Resume App</string>
+    <string name="intro">I’m <strong>Uday Chugh</strong>, a designer who codes. I love writing code.
+        I believe the power of programming to transform and improve the lives of people around the world.
+        My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization and the model view view model (MVVM).
+        So far I have HTML, CSS, JavaScript, Jquery, Bootstrap, C/C++, Python, Java and kotlin under my belt.
+    </string>
+    <string name="my_profile">My Profile</string>
+    <string name="education">Education</string>
+    <string name="high_school_senior_secondary_school_and_b_tech">High School, Senior Secondary School and B.Tech</string>
+    <string name="experience">Experience</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="hire_me">HIRE ME</string>
+    <string name="contact_me">CONTACT ME</string>
+    <string name="main_line">UDAY CHUGH <br /> RESUME</string>
+</resources>
